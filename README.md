@@ -72,35 +72,27 @@ El modelo se evalúa mediante:
 
 ---
 
-## 🧠 Reproducibilidad
-
-* Se utiliza `pathlib` para la gestión de rutas, mejorando la portabilidad del código entre distintos sistemas operativos
-* El dataset se carga mediante rutas relativas
-* El modelo está encapsulado en una clase reutilizable
-
----
-
 ## Cómo ejecutar el proyecto (Anaconda)
 1. Clonar el repositorio
 
-	git clone https://github.com/tu_usuario/tu_repo.git
-	cd tu_repo
+	`git clone https://github.com/tu_usuario/tu_repo.git`
+	`cd tu_repo`
 
 2. Crear entorno virtual
 
-	conda create -n accidentes python=3.10
+	`conda create -n accidentes python=3.10`
 
 3. Activar entorno
 	
-	conda activate accidentes
+	`conda activate accidentes`
 
 4. Instalar dependencias
 
-	pip install -r requirements.txt
+	`pip install -r requirements.txt`
 
 5. Ejecutar el notebook
 	
-	jupyter notebook
+	`jupyter notebook`
 
 Abrir:
 
