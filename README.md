@@ -96,7 +96,7 @@ El modelo se evalúa mediante:
 
 Abrir:
 
-	ProyectoEDA_paula.ipynb
+	ProyectoEDA.ipynb
 ---
 
 ## Conclusión
