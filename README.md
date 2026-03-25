@@ -12,7 +12,7 @@ El objetivo es identificar patrones relevantes y construir un modelo interpretab
 
 ```
 .
-├── ProyectoEDA_paula.ipynb   # Notebook principal (EDA + modelo)
+├── ProyectoEDA.ipynb   # Notebook principal (EDA + modelo)
 ├── models.py                 # Clase del modelo (pipeline + lógica)
 ├── test_model.py             # Test básico del modelo
 ├── 2024_Accidentalidad.csv   # Dataset utilizado
